@@ -141,6 +141,7 @@ def get_extensions():
 
 install_requires = [
     'scipy',
+    'torch',
 ]
 
 test_requires = [
