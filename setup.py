@@ -16,7 +16,7 @@ from torch.utils.cpp_extension import (
 )
 
 __version__ = '0.6.15'
-URL = 'https://github.com/rusty1s/pytorch_sparse'
+URL = 'https://github.com/woolparka/pytorch_sparse'
 
 WITH_CUDA = False
 if torch.cuda.is_available():
